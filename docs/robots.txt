@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://concriz-sistemas.github.io/exemplo-cms-pode-apagar/sitemap.xml
